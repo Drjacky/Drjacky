@@ -1,5 +1,8 @@
 ## Hi, I'm Hossein Abbasi(nickname: Drjacky ~ retrieved from [🎩](https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(character))) 👋🏼💻
 
+[![Linkedin Badge](https://img.shields.io/badge/-Drjacky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Drjacky/)](https://www.linkedin.com/in/Drjacky)
+
+
 An Android Developer with over 10 years of Software and Web development experience in a broad range of industries, including Financial, Electronics, and Software. About more than 8 years of my experience covers designing, performing and testing Android applications on Mobile, Tablet, TV and Connected Cars in IoT.
 
 I've dedicated to learning-related state-of-art technologies to increase development efficiency. A person who is eager to learn and wish to travel and share knowledge, with the work experience in Startup companies.
