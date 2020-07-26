@@ -1,4 +1,4 @@
-## Hi, I'm Hossein Abbasi(Drjacky) [🎩](https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(character)) 👋🏼💻
+## Hi, I'm Hossein Abbasi(Drjacky) [🎩](https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(character))👋🏼💻
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Drjacky-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Drjacky/)](https://www.linkedin.com/in/Drjacky)
 [![Medium Badge](https://img.shields.io/badge/-Drjacky-green?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@drjacky)](https://medium.com/@drjacky)
