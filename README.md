@@ -1,5 +1,6 @@
 ## Hi, I'm Hossein Abbasi(Drjacky) [🎩](https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(character))👋🏼💻
 
+[![Visits Badge](https://badges.pufler.dev/visits/Drjacky/Drjacky)](https://github.com/Drjacky)
 [![LinkedIn Badge](https://img.shields.io/badge/-Drjacky-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Drjacky/)](https://www.linkedin.com/in/Drjacky)
 [![Medium Badge](https://img.shields.io/badge/-Drjacky-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@drjacky)](https://medium.com/@drjacky)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Drjacky-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/story/drjacky)](https://stackoverflow.com/story/drjacky)
