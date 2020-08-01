@@ -13,7 +13,7 @@ An Android Developer with over 10 years of Software and Web development experien
 I've dedicated to learning-related state-of-art technologies to increase development efficiency. A person who is eager to learn and wish to travel and share knowledge, with the work experience in Startup companies.
 
 <a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drjacky&theme=dracula&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drjacky&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Drjacky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula" />
