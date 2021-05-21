@@ -8,7 +8,7 @@
 
 
 
-An Android Developer with over 10 years of Software and Web development experience in a broad range of industries, including Financial, Electronics, and Software. About more than 8 years of my experience covers designing, performing and testing Android applications on Mobile, Tablet, TV and Connected Cars in IoT.
+An Android Developer with over 11 years of Software and Web development experience in a broad range of industries, including Financial, Electronics, and Software. About more than 9 years of my experience covers designing, performing and testing Android applications on Mobile, Tablet, TV and Connected Cars in IoT.
 
 I've dedicated to learning-related state-of-art technologies to increase development efficiency. A person who is eager to learn and wish to travel and share knowledge, with the work experience in Startup companies.
 
