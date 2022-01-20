@@ -10,7 +10,9 @@
 
 An Android Developer with over 11 years of Software and Web development experience in a broad range of industries, including Financial, Electronics, and Software. About more than 9 years of my experience covers designing, performing and testing Android applications on Mobile, Tablet, TV and Connected Cars in IoT.
 
-I've dedicated to learning-related state-of-art technologies to increase development efficiency. A person who is eager to learn and wish to travel and share knowledge, with the work experience in Startup companies.
+I've dedicated myself to learning state-of-art technologies to increase development efficiency. Passionate about learning and sharing knowledge, with experience in large-scale and startup companies.
+
+
 
 <a href="https://github.com/Drjacky">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drjacky&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
