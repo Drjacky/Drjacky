@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FE6F95&width=650&lines=Hi%2C+I'm+Hossein+Abbasi(Drjacky)%F0%9F%8E%A9%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Drjacky/Drjacky)](https://github.com/Drjacky)
+[![Visits Badge](https://komarev.com/ghpvc/?username=Drjacky&label=Visits+Badge)](https://github.com/Drjacky)
 [![LinkedIn Badge](https://img.shields.io/badge/-Drjacky-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Drjacky/)](https://www.linkedin.com/in/Drjacky)
 [![Medium Badge](https://img.shields.io/badge/-Drjacky-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@drjacky)](https://medium.com/@drjacky)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Drjacky-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/421467/dr-jacky?tab=profile)](https://stackoverflow.com/story/drjacky)
