@@ -23,4 +23,4 @@ I've dedicated myself to learning state-of-the-art technologies to increase deve
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula" />
 </a>
 
-![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg)
+![](./profile-3d-contrib/profile-custom-evergreen.svg)
