@@ -12,9 +12,9 @@ def main():
     bg = root.find('{http://www.w3.org/2000/svg}rect')
 
     bg.attrib["stroke"] = "white"
-    bg.attrib["stroke-width"] = "1"
-    bg.attrib["rx"] = "10"
-    bg.attrib["ry"] = "10"
+    bg.attrib["stroke-width"] = "2"
+    bg.attrib["rx"] = "5"
+    bg.attrib["ry"] = "5"
 
     tree.write(sys.argv[2], encoding='UTF-8')
 
