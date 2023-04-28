@@ -12,7 +12,7 @@ def main():
     bg = root.find('{http://www.w3.org/2000/svg}rect')
 
     bg.attrib["stroke"] = "white"
-    bg.attrib["stroke-width"] = "2"
+    bg.attrib["stroke-width"] = "3"
     bg.attrib["rx"] = "5"
     bg.attrib["ry"] = "5"
 
