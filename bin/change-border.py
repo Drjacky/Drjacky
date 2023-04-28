@@ -13,8 +13,8 @@ def main():
 
     bg.attrib["stroke"] = "white"
     bg.attrib["stroke-width"] = "3"
-    bg.attrib["rx"] = "5"
-    bg.attrib["ry"] = "5"
+    bg.attrib["rx"] = "7"
+    bg.attrib["ry"] = "7"
 
     tree.write(sys.argv[2], encoding='UTF-8')
 
