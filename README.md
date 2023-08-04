@@ -24,6 +24,8 @@ I've dedicated myself to learning state-of-the-art technologies to increase deve
 </a>
 
 ![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg)
+<h1 align="center">Work</h1>  
+
 ![](https://raw.githubusercontent.com/hosseinabbasi-toast/hosseinabbasi-toast/main/profile-3d-contrib/profile-custom-evergreen-with-border.svg)
-<!-- <img src="http://ghchart.rshah.org/hosseinabbasi-toast" alt="" /> -->
+<!-- <img src="http://ghchart.rshah.org/hosseinabbasi-toast" width="1012" /> -->
 
