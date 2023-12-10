@@ -10,9 +10,9 @@
 
 
 
-An Android Developer with over 13 years of Software and Web development experience in a broad range of industries, including Financial, Electronics, and Software. More than 11 years of my experience covers designing, performing and testing Android applications on Mobile, Tablet, TV and Connected Cars in IoT.
+An Android Developer with 14+ years of experience in Software development across diverse sectors including Finance, Electronics, and Software. Specializing in designing, testing, and implementing Android applications for various platforms, I've also excelled in leading both projects and cross-functional teams.
 
-I've dedicated myself to learning state-of-the-art technologies to increase development efficiency. Passionate about learning and sharing knowledge, with experience in large-scale and startup companies.
+My journey underscores a commitment to mastering cutting-edge technologies to enhance development efficiency. Passionate about continuous learning and knowledge-sharing, I've contributed my expertise to both large enterprises and dynamic startups. My leadership experience equips me to guide teams toward successful project delivery while nurturing a collaborative and innovative environment.
 
 
 
