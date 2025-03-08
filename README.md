@@ -10,7 +10,7 @@
 
 
 
-An Android Developer with 14+ years of experience in Software development across diverse sectors including Finance, Electronics, and Software. Specializing in designing, testing, and implementing Android applications for various platforms, I've also excelled in leading both projects and cross-functional teams.
+An Android Engineer with 15+ years of experience in Software development across diverse sectors including Finance, Electronics, and Software. Specializing in designing, testing, and implementing Android applications for various platforms, I've also excelled in leading both projects and cross-functional teams.
 
 My journey underscores a commitment to mastering cutting-edge technologies to enhance development efficiency. Passionate about continuous learning and knowledge-sharing, I've contributed my expertise to both large enterprises and dynamic startups. My leadership experience equips me to guide teams toward successful project delivery while nurturing a collaborative and innovative environment.
 
