@@ -14,7 +14,7 @@ jobs:
       - uses: Drjacky/github-business-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOAST_PERSONAL_ACCESS_TOKEN }}
-          USERNAME: "hosseinabbasi-toast"
+          USERNAME: ${{ secrets.MY_COMPANY_USERNAME }}
           SETTING_JSON: ./profile-3d-contrib/ever-green-custom.json
       - uses: actions/setup-python@v4
         with:
