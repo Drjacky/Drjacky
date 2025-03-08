@@ -11,7 +11,7 @@ jobs:
     name: generate-github-business-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: https://github.com/Drjacky/github-business-profile-3d-contrib@0.7.2
+      - uses: Drjacky/github-business-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOAST_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
