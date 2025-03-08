@@ -1,0 +1,29 @@
+name: GitHub-Enterprise-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-enterprise-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Drjacky/github-enterprise-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_TOAST_PERSONAL_ACCESS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./profile-3d-contrib/ever-green-custom.json
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - run: python ./bin/change-border.py profile-3d-contrib/profile-custom-evergreen.svg profile-3d-contrib/profile-custom-evergreen-with-border.svg
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.toasttab.com
+          git add -A .
+          git commit -m "3d-contrib generated"
+          git push
