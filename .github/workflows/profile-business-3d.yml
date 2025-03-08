@@ -11,10 +11,11 @@ jobs:
     name: generate-github-business-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: Drjacky/github-business-profile-3d-contrib@bf2ce0ce278495d02d45252385a6df4a907c4e04
+      - uses: yoshi389111/github-profile-3d-contrib@test-enterprise
         env:
           GITHUB_TOKEN: ${{ secrets.MY_COMPANY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ secrets.MY_COMPANY_USERNAME }}
+          GITHUB_ENDPINT: ${{ secrets.MY_COMPANY_ENDPOINT }}
           SETTING_JSON: ./profile-3d-contrib/ever-green-custom.json
       - uses: actions/setup-python@v4
         with:
