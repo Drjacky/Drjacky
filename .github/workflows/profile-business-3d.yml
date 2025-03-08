@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.MY_COMPANY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ secrets.MY_COMPANY_USERNAME }}
-          GITHUB_ENDPINT: ${{ secrets.MY_COMPANY_ENDPOINT }}
+          GITHUB_ENDPOINT: ${{ secrets.MY_COMPANY_ENDPOINT }}
           SETTING_JSON: ./profile-3d-contrib/ever-green-custom.json
       - uses: actions/setup-python@v4
         with:
