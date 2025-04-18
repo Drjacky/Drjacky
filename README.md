@@ -17,7 +17,7 @@ My journey underscores a commitment to mastering cutting-edge technologies to en
 
 
 <a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drjacky&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
 </a>
 <a href="https://github.com/Drjacky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula" />
