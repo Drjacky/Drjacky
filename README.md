@@ -20,8 +20,15 @@ My journey underscores a commitment to mastering cutting-edge technologies to en
   <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
 </a>
 <a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api/top-langs/?username=Drjacky&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api/top-langs/?username=Drjacky&theme=dracula&count_private=true" />
 </a>
+<a href="https://github.com/Drjacky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
+</a>
+<a href="https://github.com/Drjacky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula&count_private=true" />
+</a>
+
 
 ![](./profile-3d-contrib/profile-business-custom-evergreen-with-border.svg)
 
