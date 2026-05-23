@@ -12,19 +12,24 @@
 
 With 16+ years building secure, high-impact software across finance, payments, electronics, SaaS, and AI, I’ve delivered everything from payment systems to large-scale consumer and enterprise platforms while remaining hands-on in coding, architecture, and leadership. Experienced across backend, Android, and distributed systems, I lead teams, refactor legacy systems, and design scalable microservices, event-driven architectures, and clean APIs that ensure low-latency, high reliability, and deliver real customer impact with future-proof performance.
 
-
-<a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
-</a>
-<a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula&count_private=true" />
-</a>
-<a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=hosseinabbasi-toast&show_icons=true" />
-</a>
-<a href="https://github.com/Drjacky">
-  <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api/top-langs/?username=hosseinabbasi-toast&theme=dracula&count_private=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/Drjacky">
+    <img src="https://github-profile-trophy.vercel.app/?username=Drjacky&theme=juicyfresh&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  </a>
+  </br>
+  <a href="https://github.com/Drjacky">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
+  </a>
+  <a href="https://github.com/Drjacky">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula&count_private=true" />
+  </a>
+  <a href="https://github.com/Drjacky">
+    <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=hosseinabbasi-toast&show_icons=true" />
+  </a>
+  <a href="https://github.com/Drjacky">
+    <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api/top-langs/?username=hosseinabbasi-toast&theme=dracula&count_private=true" />
+  </a>
+</p>
 
 ![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg)
 
