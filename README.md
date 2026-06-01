@@ -18,16 +18,10 @@ With 16+ years building secure, high-impact software across finance, payments, e
   </a>
   </br>
   <a href="https://github.com/Drjacky">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=Drjacky&show_icons=true" />
+    <img align="center" src="profile/stats.svg" />
   </a>
   <a href="https://github.com/Drjacky">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drjacky&theme=dracula&count_private=true" />
-  </a>
-  <a href="https://github.com/Drjacky">
-    <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api?theme=dracula&include_all_commits=true&count_private=true&username=hosseinabbasi-toast&show_icons=true" />
-  </a>
-  <a href="https://github.com/Drjacky">
-    <img align="center" src="https://github-readme-stats-hossein-abbasis-projects.vercel.app/api/top-langs/?username=hosseinabbasi-toast&theme=dracula&count_private=true" />
+    <img align="center" src="profile/top-langs.svg" />
   </a>
 </p>
 
