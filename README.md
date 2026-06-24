@@ -10,7 +10,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-black?style=flat&logo=anthropic&logoColor=white)
 
 
-With 16+ years building secure, high-impact software across finance, payments, electronics, SaaS, and AI, I’ve delivered everything from payment systems to large-scale consumer and enterprise platforms while remaining hands-on in coding, architecture, and leadership. Experienced across backend, Android, and distributed systems, I lead teams, refactor legacy systems, and design scalable microservices, event-driven architectures, and clean APIs that ensure low-latency, high reliability, and deliver real customer impact with future-proof performance.
+Seasoned Tech Lead, Senior Android Engineer with 17+ years delivering secure, high-scale Android applications across fintech, IoT, ride-hailing, and SaaS platforms serving millions of users. Proven leader of cross-functional teams with strong technical leadership, expert in modernizing complex legacy codebases and architecting reliable, high-performance mobile solutions. Hands-on in coding and technical architecture, consistently driving customer value and business impact.
 
 <p align="center">
   <a href="https://github.com/Drjacky">
