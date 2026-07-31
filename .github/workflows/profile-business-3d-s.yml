@@ -16,11 +16,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_COMPANY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ secrets.MY_COMPANY_USERNAME }}
           GITHUB_ENDPOINT: ${{ secrets.MY_COMPANY_ENDPOINT }}
-          SETTING_JSON: ./profile-3d-s-contrib/ever-green-custom-business.json
+          SETTING_JSON: ./profile-3d-contrib/ever-green-custom-business.json
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10' 
-      - run: python ./bin/change-border.py profile-3d-s-contrib/profile-business-custom-evergreen.svg profile-3d-s-contrib/profile-business-custom-evergreen-with-border.svg
+      - run: python ./bin/change-border.py profile-3d-contrib/profile-business-custom-evergreen.svg profile-3d-s-contrib/profile-business-custom-evergreen-with-border.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
