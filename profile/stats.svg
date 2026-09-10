@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hossein Abbasi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1722, Total Commits  : 2868, Total PRs: 28, Total Issues: 472, Contributed to (last year): 51</desc>
+        <desc id="descId">Total Stars Earned: 1724, Total Commits  : 2868, Total PRs: 28, Total Issues: 472, Contributed to (last year): 50</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 55.270895072647335;
+        stroke-dashoffset: 55.26823004774235;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >51</text>
+      >50</text>
     </g>
   </g>
     </svg>
