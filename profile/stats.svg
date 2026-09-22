@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hossein Abbasi&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1727, Total Commits  : 2868, Total PRs: 28, Total Issues: 472, Contributed to (last year): 50</desc>
+        <desc id="descId">Total Stars Earned: 1727, Total Commits  : 2868, Total PRs: 28, Total Issues: 472, Contributed to (last year): 48</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >50</text>
+      >48</text>
     </g>
   </g>
     </svg>
