@@ -27,7 +27,7 @@ Seasoned Tech Lead, Senior Android Engineer with 17+ years delivering secure, hi
 
 ![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg)
 
-![](./profile-3d-contrib/profile-business-custom-evergreen-with-border.svg)
+<!-- ![](./profile-3d-contrib/profile-business-custom-evergreen-with-border.svg) -->
 
 <!-- ![](https://raw.githubusercontent.com/hosseinabbasi-toast/hosseinabbasi-toast/main/profile-3d-contrib/profile-custom-evergreen-with-border.svg) -->
 <!-- <img src="http://ghchart.rshah.org/hosseinabbasi-toast" width="1012" /> -->
