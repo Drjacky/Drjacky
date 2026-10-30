@@ -25,7 +25,7 @@ Seasoned Tech Lead, Senior Android Engineer with 17+ years delivering secure, hi
   </a>
 </p>
 
-![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg)
+<!-- ![](./profile-3d-contrib/profile-custom-evergreen-with-border.svg) -->
 
 <!-- ![](./profile-3d-contrib/profile-business-custom-evergreen-with-border.svg) -->
 
